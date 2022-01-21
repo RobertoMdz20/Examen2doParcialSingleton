@@ -1,0 +1,14 @@
+C:\Users\RobertoAlejandro\source\repos\SingletonExamen\SingletonExamen\bin\Debug\netcoreapp3.1\SingletonExamen.exe
+C:\Users\RobertoAlejandro\source\repos\SingletonExamen\SingletonExamen\bin\Debug\netcoreapp3.1\SingletonExamen.deps.json
+C:\Users\RobertoAlejandro\source\repos\SingletonExamen\SingletonExamen\bin\Debug\netcoreapp3.1\SingletonExamen.runtimeconfig.json
+C:\Users\RobertoAlejandro\source\repos\SingletonExamen\SingletonExamen\bin\Debug\netcoreapp3.1\SingletonExamen.runtimeconfig.dev.json
+C:\Users\RobertoAlejandro\source\repos\SingletonExamen\SingletonExamen\bin\Debug\netcoreapp3.1\SingletonExamen.dll
+C:\Users\RobertoAlejandro\source\repos\SingletonExamen\SingletonExamen\bin\Debug\netcoreapp3.1\SingletonExamen.pdb
+C:\Users\RobertoAlejandro\source\repos\SingletonExamen\SingletonExamen\obj\Debug\netcoreapp3.1\SingletonExamen.csproj.AssemblyReference.cache
+C:\Users\RobertoAlejandro\source\repos\SingletonExamen\SingletonExamen\obj\Debug\netcoreapp3.1\SingletonExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobertoAlejandro\source\repos\SingletonExamen\SingletonExamen\obj\Debug\netcoreapp3.1\SingletonExamen.AssemblyInfoInputs.cache
+C:\Users\RobertoAlejandro\source\repos\SingletonExamen\SingletonExamen\obj\Debug\netcoreapp3.1\SingletonExamen.AssemblyInfo.cs
+C:\Users\RobertoAlejandro\source\repos\SingletonExamen\SingletonExamen\obj\Debug\netcoreapp3.1\SingletonExamen.csproj.CoreCompileInputs.cache
+C:\Users\RobertoAlejandro\source\repos\SingletonExamen\SingletonExamen\obj\Debug\netcoreapp3.1\SingletonExamen.dll
+C:\Users\RobertoAlejandro\source\repos\SingletonExamen\SingletonExamen\obj\Debug\netcoreapp3.1\SingletonExamen.pdb
+C:\Users\RobertoAlejandro\source\repos\SingletonExamen\SingletonExamen\obj\Debug\netcoreapp3.1\SingletonExamen.genruntimeconfig.cache
